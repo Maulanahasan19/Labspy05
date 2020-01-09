@@ -10,4 +10,5 @@
 5. Ketika sudah berhasil mengubahnya lalu kita Lihat dan sudah berubah,kemudian kita coba Hapus data mahasiswa yang sudah kita buat dengan cara mengklik tombol "H":
 ![Untitled6](https://user-images.githubusercontent.com/56240386/72042037-cb696800-32df-11ea-862a-966948ff9792.png)
 6. Langkah terakhir adalah langkah yang paling mudah,karena semuanya sudah sukses dan berhasil,lalu klik tombol "K" untuk Keluar
+
 ![Untitled8](https://user-images.githubusercontent.com/56240386/72042152-2ac77800-32e0-11ea-8a9a-c8d6ad2304b7.png)
